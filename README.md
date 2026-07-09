@@ -48,22 +48,6 @@ Vrinda Store wants an annual sales report to better understand its customers and
 - **Top channels:** _[fill in]_
 - **Delivery success rate:** _[fill in]_
 
-## 🎯 Recommendations *(update with your actual findings)*
-
-Based on the analysis, targeted strategies can be developed around the highest-contributing customer segments, states, and sales channels to maximize marketing ROI and drive further growth.
-
-## 📂 File Structure
-
-```
-Excel-sales-analysis/
-└── Vrinda Store Sales Analysis.xlsx   # Raw data, pivot tables & interactive dashboard
-```
-
-## ▶️ How to Use
-
-1. Download the `.xlsx` file.
-2. Open it in Microsoft Excel (or Excel Online).
-3. Use the slicers on the dashboard tab to filter by month, state, channel, etc.
 
 ## Author
 
